@@ -2,7 +2,7 @@
 
 A simple GUI application to streamline the installation of Snap packages on Linux systems.
 
-![Kudu Snap Installer Screenshot](https://github.com/tvp227/kudu-snap-installer/raw/main/screenshot.png)
+![image](https://github.com/user-attachments/assets/3934f94a-c6d8-4107-915a-f62ea7d30ac3)
 
 ## Overview
 
