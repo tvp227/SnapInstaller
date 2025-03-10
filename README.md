@@ -109,6 +109,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 
 - **TVP227** - [GitHub Profile](https://github.com/tvp227)
+- **Linkdln** - [Thomas Porter](www.linkedin.com/in/thomasvporter)
 
 ## Acknowledgments
 
