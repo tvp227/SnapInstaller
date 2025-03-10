@@ -115,3 +115,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - The Snap package system and its developers
 - The Python and Tkinter communities
+
+- Biggest aknowledgement goes to https://packagepicker.co/pm/apt. A great peice of software that achives a very similar principle for additional packages. Plus they are web hosted.
