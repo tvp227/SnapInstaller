@@ -6,11 +6,11 @@ A simple GUI application to streamline the installation of Snap packages on Linu
 
 ## Overview
 
-Kudu Snap Installer provides a user-friendly graphical interface for installing Snap packages on Linux. It categorizes common applications and utilities, allowing users to select packages for installation with simple checkboxes. The tool also offers a custom package option for installing packages not included in the predefined categories.
+Kudu Snap Installer provides a user-friendly graphical interface for installing Snap packages on Linux. It categorises common applications and utilities, allowing users to select packages for installation with simple checkboxes. The tool also offers a custom package option for installing packages not included in the predefined categories.
 
 ## Features
 
-- **Categorized Package Selection**: Browse and select packages from predefined categories:
+- **Categorised Package Selection**: Browse and select packages from predefined categories:
   - Productivity (Chromium, Firefox, VS Code, Slack)
   - Development (Go, Node.js, Docker, Postman)
   - Utilities (VLC, Spotify, OBS Studio, htop)
